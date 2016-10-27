@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "G:\\Eatl_project\\Project\\BDTicket\\app\\build\\intermediates\\res\\merged\\debug\\menu\\off_line_ticket.xml",
+        "source": "G:\\Eatl_project\\Project\\BDTicket\\app\\src\\main\\res\\menu\\off_line_ticket.xml"
+    },
+    {
+        "merged": "G:\\Eatl_project\\Project\\BDTicket\\app\\build\\intermediates\\res\\merged\\debug\\menu\\online_bus_ticket.xml",
+        "source": "G:\\Eatl_project\\Project\\BDTicket\\app\\src\\main\\res\\menu\\online_bus_ticket.xml"
+    },
+    {
+        "merged": "G:\\Eatl_project\\Project\\BDTicket\\app\\build\\intermediates\\res\\merged\\debug\\menu\\post_code.xml",
+        "source": "G:\\Eatl_project\\Project\\BDTicket\\app\\src\\main\\res\\menu\\post_code.xml"
+    },
+    {
+        "merged": "G:\\Eatl_project\\Project\\BDTicket\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gp.xml",
+        "source": "G:\\Eatl_project\\Project\\BDTicket\\app\\src\\main\\res\\menu\\gp.xml"
+    },
+    {
+        "merged": "G:\\Eatl_project\\Project\\BDTicket\\app\\build\\intermediates\\res\\merged\\debug\\menu\\open.xml",
+        "source": "G:\\Eatl_project\\Project\\BDTicket\\app\\src\\main\\res\\menu\\open.xml"
+    },
+    {
+        "merged": "G:\\Eatl_project\\Project\\BDTicket\\app\\build\\intermediates\\res\\merged\\debug\\menu\\online_train_ticket.xml",
+        "source": "G:\\Eatl_project\\Project\\BDTicket\\app\\src\\main\\res\\menu\\online_train_ticket.xml"
+    },
+    {
+        "merged": "G:\\Eatl_project\\Project\\BDTicket\\app\\build\\intermediates\\res\\merged\\debug\\menu\\buy_ticket_web.xml",
+        "source": "G:\\Eatl_project\\Project\\BDTicket\\app\\src\\main\\res\\menu\\buy_ticket_web.xml"
+    },
+    {
+        "merged": "G:\\Eatl_project\\Project\\BDTicket\\app\\build\\intermediates\\res\\merged\\debug\\menu\\tracker.xml",
+        "source": "G:\\Eatl_project\\Project\\BDTicket\\app\\src\\main\\res\\menu\\tracker.xml"
+    },
+    {
+        "merged": "G:\\Eatl_project\\Project\\BDTicket\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gmail.xml",
+        "source": "G:\\Eatl_project\\Project\\BDTicket\\app\\src\\main\\res\\menu\\gmail.xml"
+    },
+    {
+        "merged": "G:\\Eatl_project\\Project\\BDTicket\\app\\build\\intermediates\\res\\merged\\debug\\menu\\help_details.xml",
+        "source": "G:\\Eatl_project\\Project\\BDTicket\\app\\src\\main\\res\\menu\\help_details.xml"
+    },
+    {
+        "merged": "G:\\Eatl_project\\Project\\BDTicket\\app\\build\\intermediates\\res\\merged\\debug\\menu\\bl.xml",
+        "source": "G:\\Eatl_project\\Project\\BDTicket\\app\\src\\main\\res\\menu\\bl.xml"
+    }
+]

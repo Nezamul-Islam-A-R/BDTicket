@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "G:\\Eatl_project\\Project\\BDTicket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_online_train_ticket.xml",
+        "source": "G:\\Eatl_project\\Project\\BDTicket\\app\\src\\main\\res\\layout\\activity_online_train_ticket.xml"
+    },
+    {
+        "merged": "G:\\Eatl_project\\Project\\BDTicket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_off_line_ticket.xml",
+        "source": "G:\\Eatl_project\\Project\\BDTicket\\app\\src\\main\\res\\layout\\activity_off_line_ticket.xml"
+    },
+    {
+        "merged": "G:\\Eatl_project\\Project\\BDTicket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bl.xml",
+        "source": "G:\\Eatl_project\\Project\\BDTicket\\app\\src\\main\\res\\layout\\activity_bl.xml"
+    },
+    {
+        "merged": "G:\\Eatl_project\\Project\\BDTicket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "G:\\Eatl_project\\Project\\BDTicket\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "G:\\Eatl_project\\Project\\BDTicket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help_details.xml",
+        "source": "G:\\Eatl_project\\Project\\BDTicket\\app\\src\\main\\res\\layout\\activity_help_details.xml"
+    },
+    {
+        "merged": "G:\\Eatl_project\\Project\\BDTicket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_buy_ticket_web.xml",
+        "source": "G:\\Eatl_project\\Project\\BDTicket\\app\\src\\main\\res\\layout\\activity_buy_ticket_web.xml"
+    },
+    {
+        "merged": "G:\\Eatl_project\\Project\\BDTicket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_online_bus_ticket.xml",
+        "source": "G:\\Eatl_project\\Project\\BDTicket\\app\\src\\main\\res\\layout\\activity_online_bus_ticket.xml"
+    },
+    {
+        "merged": "G:\\Eatl_project\\Project\\BDTicket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_post_code.xml",
+        "source": "G:\\Eatl_project\\Project\\BDTicket\\app\\src\\main\\res\\layout\\activity_post_code.xml"
+    },
+    {
+        "merged": "G:\\Eatl_project\\Project\\BDTicket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tracker.xml",
+        "source": "G:\\Eatl_project\\Project\\BDTicket\\app\\src\\main\\res\\layout\\activity_tracker.xml"
+    },
+    {
+        "merged": "G:\\Eatl_project\\Project\\BDTicket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_open.xml",
+        "source": "G:\\Eatl_project\\Project\\BDTicket\\app\\src\\main\\res\\layout\\activity_open.xml"
+    },
+    {
+        "merged": "G:\\Eatl_project\\Project\\BDTicket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gp.xml",
+        "source": "G:\\Eatl_project\\Project\\BDTicket\\app\\src\\main\\res\\layout\\activity_gp.xml"
+    },
+    {
+        "merged": "G:\\Eatl_project\\Project\\BDTicket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\amar.xml",
+        "source": "G:\\Eatl_project\\Project\\BDTicket\\app\\src\\main\\res\\layout\\amar.xml"
+    },
+    {
+        "merged": "G:\\Eatl_project\\Project\\BDTicket\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gmail.xml",
+        "source": "G:\\Eatl_project\\Project\\BDTicket\\app\\src\\main\\res\\layout\\activity_gmail.xml"
+    }
+]

@@ -1,0 +1,91 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".Ticket" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        
+        android:orientation="vertical" 
+        android:weightSum="100">
+        
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                
+        android:orientation="horizontal" 
+        android:layout_weight="33"
+        android:weightSum="100">
+
+            <Button
+                android:id="@+id/help"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+				android:layout_marginTop="10dp"
+				android:background="@drawable/help"
+				android:layout_marginRight="5dp"
+                android:layout_marginBottom="10dp"
+                android:layout_weight="50" />
+
+            <Button
+                android:id="@+id/buyTicket"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+ 				android:layout_marginTop="10dp"
+ 				android:layout_marginLeft="5dp"
+                android:background="@drawable/dialbuyyourtkt"       
+                android:layout_marginBottom="10dp"
+                android:layout_weight="50" />
+
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+       		    android:paddingLeft="@dimen/activity_horizontal_margin"
+                
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                
+        android:orientation="horizontal" 
+        android:layout_weight="33"
+        android:weightSum="100">
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/trainsche"
+                android:layout_marginRight="5dp"
+                android:layout_marginBottom="10dp"
+                android:layout_weight="50" />
+
+            <Button
+                android:id="@+id/button4"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="5dp"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/gap"
+                android:layout_weight="50" />
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                
+        android:orientation="horizontal" 
+        android:layout_weight="34"
+        android:weightSum="100">
+            
+    </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>
